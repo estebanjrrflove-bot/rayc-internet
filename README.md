@@ -84,7 +84,7 @@ http://127.0.0.1:8000
 
 ## Autor
 
-**Raúl Andrés Yapo Coaquira**
+**Esteban Torres Enriquez**
 
 ## Institución
 
